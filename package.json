@@ -4,9 +4,7 @@
   "description": "Eat Da Burger! allows users to select an item from the menu, post item from menu and add item to menu",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "scripts": {
-    "start": "node server.js"
   }
 }
